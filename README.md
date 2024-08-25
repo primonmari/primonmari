@@ -3,7 +3,7 @@
 ### Oii eu sou a Mari! 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mari_primon/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marislene-primon-78b569252//](https://www.linkedin.com/in/marislene-primon-78b569252/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marislene-primon-78b569252/)
 
 ![Mari GitHub stats](https://github-readme-stats.vercel.app/api?username=primonmari&show_icons=true&theme=dracula)
 
