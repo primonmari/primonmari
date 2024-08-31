@@ -1,6 +1,9 @@
 
 
 ### Oii eu sou a Mari! 
+😍 Sou uma entusiasta de tecnologia!<br> 
+💻 Desenvolvedora Front-End, Web e Mobile com experiência em marketplace e design. 🎨<br>
+🎓 Bacharel em Sistemas de Informação pelo Instituto Federal do Paraná (IFPR).<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mari_primon/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marislene-primon-78b569252/)
