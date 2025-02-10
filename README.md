@@ -3,7 +3,7 @@
 ### Oii eu sou a Mari!  👋
 
 😍 Sou uma entusiasta de tecnologia!<br> 
-💻 Designer e desenvolvedora Front-End dev com experiência em marketplace. 🎨<br>
+💻 Desenvolvedora Front-End - Designer - Marketplace. 🎨<br>
 🎓 Bacharel em Sistemas de Informação pelo Instituto Federal do Paraná (IFPR).<br>
 
 <!--
