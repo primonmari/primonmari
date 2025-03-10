@@ -5,6 +5,8 @@
 😍 Sou uma entusiasta de tecnologia!<br> 
 💻 Desenvolvedora Front-End - Designer - Marketplace. <br>
 🎓 Bacharel em Sistemas de Informação pelo Instituto Federal do Paraná (IFPR).<br>
+🌱 Atualmente, estou focada na construção do meu portfólio.<br>
+✨ Busco colaborar em projetos Mobile e Web! 
 
 <!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mari_primon/)
