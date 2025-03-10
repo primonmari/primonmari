@@ -4,7 +4,6 @@
 
 😍 Sou uma entusiasta de tecnologia!<br> 
 💻 Desenvolvedora Front-End - Mobile - Designer - Marketplace. <br>
-🎓 Bacharel em Sistemas de Informação pelo Instituto Federal do Paraná (IFPR).<br>
 🌱 Atualmente, estou focada na construção do meu portfólio.<br>
 ✨ Busco colaborar em projetos Mobile e Web! 
 
