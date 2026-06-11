@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-00E5B0?style=for-the-badge&logo=linkedin&logoColor=080D1B" />
 </a>
 
-<a href="mailto:marisprimoon@gmail.com">
+<a href="mailto:mariprimon.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-00E5B0?style=for-the-badge&logo=gmail&logoColor=080D1B" />
 </a>
 
