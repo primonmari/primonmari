@@ -1,8 +1,7 @@
 # Olá, eu sou a Mari! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5B0&width=550&lines=Desenvolvedora+de+Software;Desenvolvimento+Web+e+Mobile;Designer;Sempre+aprendendo+novas+tecnologias" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5B0&width=435&lines=Front-End+Developer;Mobile+Developer;Designer;Sempre+aprendendo+novas+tecnologias" />
-
-💻 Desenvolvedora Front-End, Mobile e Designer  
+💻 Desenvolvedora e Designer  
 🎓 Bacharel em Sistemas de Informação pelo IFPR  
 🚀 Apaixonada por tecnologia e inovação
 
