@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/Gmail-00E5B0?style=for-the-badge&logo=gmail&logoColor=080D1B" />
 </a>
 
-<a href="https://github.com/primonmari" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-00E5B0?style=for-the-badge&logo=github&logoColor=080D1B" />
-</a>
-
 ---
 
 ## 📊 Estatísticas
